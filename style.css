@@ -1,0 +1,41 @@
+html {
+  height: 100%;
+  width: 100%;
+}
+body{
+  background-color: #AD88C6;
+  }
+.titulo{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: rgb(100, 13, 107,0,3);
+  border: 3px solid white
+  }
+.titulo p{
+  font-size: 50px;
+  font-weight: bold;
+  color: #32012F
+}
+.subtitulo p{
+font-size: 30px;
+  font-weight: bold;
+  color:#240750
+}
+.conten1{
+  display: flex;
+justify-content: center;
+  align-items: center;
+  background-color: rgb(131, 180, 255,0,3);
+  border: 3px solid white}
+
+.conten1 img{
+height: 250px;
+  margin: 20px
+}
+.conten1 p{
+  font-size: 25px;
+  font-weight: bold;
+  color: ;
+  margin: 20px;
+  line-height: 2.0;
